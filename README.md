@@ -64,5 +64,122 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-kyanitelabs-tech is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://kyanitelabs.tech/
+KyaniteLabs helps builders and teams get open-source AI tools, MCP systems, media pipelines, localization QA, and repo diagnostics working in their real environment. The company provides a public API for discovery, contact, newsletter, and implementation intake workflows, exposing endpoints for health checks and an OpenAPI specification. Their platform focuses on integrating AI tools into production pipelines, offering resources such as documentation, blog posts, and open-source repositories.
+
+**Areas:** AI · MCP · Media Pipelines · Localization · Diagnostics
+
+## kyanitelabs-tech on APIs.io
+
+Everything profiled for kyanitelabs-tech is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/kyanitelabs-tech/](https://apis.io/providers/kyanitelabs-tech/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Public Website API](https://apis.io/apis/kyanitelabs-tech/public-website-api/) — Public discovery, health, contact, newsletter, and implementation-intake endpoints.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Kyanitelabs Tech Agentic Access](https://apis.io/agentic-access/kyanitelabs-tech/kyanitelabs-tech-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [kyanitelabs-tech API Rules](https://apis.io/rules/kyanitelabs-tech/kyanitelabs-tech-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Kyanitelabs Tech Authentication](https://apis.io/security/kyanitelabs-tech/kyanitelabs-tech-authentication/)
+- [Kyanitelabs Tech Domain Security](https://apis.io/security/kyanitelabs-tech/kyanitelabs-tech-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Kyanitelabs Tech Scopes](https://apis.io/scopes/kyanitelabs-tech/kyanitelabs-tech-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Kyanitelabs Tech Plans Pricing](https://apis.io/plans/kyanitelabs-tech/kyanitelabs-tech-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Kyanitelabs Tech Rate Limits](https://apis.io/rate-limits/kyanitelabs-tech/kyanitelabs-tech-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://kyanitelabs.tech/)
+- [Documentation](https://kyanitelabs.tech/docs/api)
+- [API reference](https://kyanitelabs.tech/openapi.json)
+- [Blog](https://kyanitelabs.tech/blog)
+- [Terms of service](https://kyanitelabs.tech/terms)
+- [Privacy policy](https://kyanitelabs.tech/privacy)
+- [GitHub](https://github.com/KyaniteLabs)
+
+## API Evangelist rating
+
+**Kin Score 28.0** — thin · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 0.0 |
+| Contract governance | 65.5 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 35.0 |
+| Access clarity | 21.1 |
+
+**Agent readiness 24.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 26.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/kyanitelabs-tech/](https://apis.io/providers/kyanitelabs-tech/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for kyanitelabs-tech: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/kyanitelabs-tech/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
